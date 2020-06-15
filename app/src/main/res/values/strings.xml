@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidKotlinTaskE</string>
+    <string name="StartService">Start</string>
+    <string name="StopService">Stop</string>
+</resources>
